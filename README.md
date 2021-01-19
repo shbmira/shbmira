@@ -10,7 +10,7 @@
 
 -> Tons of fun with on-premises world (from power supply to systems frontend), including a never-ending oncall shift (24/7/365)
 
--> Systems Architecture - Low-level design, restructuring one huge pice into smaller micro-services, experimenting (RethinkDB is one of a kind 😄)
+-> Systems Architecture - Low-level design, restructuring one huge piece into smaller micro-services, experimenting (RethinkDB is one of a kind 😄)
 
 -> Automate everything! If possible, automate the automation! We don't want error-prone processes (Humans can **still** be the users)
 
