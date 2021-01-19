@@ -18,13 +18,14 @@
 
 -> Networking? Nah... These days nobody needs to calculate how many host IPs you lose if you split a /24 by 8. Is that true? (hint: we still have VPCs in the Cloud Providers!)
 
--> PHP? Unfortunately familiar with it, but willing to reduce it to a little-to-none grey matter usage (need to make room for some new stuff, like [some statistics](http://www.tylervigen.com/spurious-correlations))
+-> PHP? Unfortunately familiar with it, but willing to reduce it to a little-to-none grey matter usage (need to make some room for new stuff, like [stunning statistics](http://www.tylervigen.com/spurious-correlations))
 
 -> Last, but not the least, if you're reading this please do not have a test process/infra layer just to add "override" step into your deployment process. Please, don't.
 
 #### :potable_water:  Currently
 
 -> Systems Development Engineer at AWS
+
 -> Living in Ireland
 
 #### :telephone:  Reach out!
