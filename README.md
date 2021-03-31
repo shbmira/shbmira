@@ -20,7 +20,7 @@
 
 -> PHP? Unfortunately familiar with it, but willing to reduce it to a little-to-none grey matter usage (need to make some room for new stuff, like [stunning statistics](http://www.tylervigen.com/spurious-correlations))
 
--> Last, but not the least, if you're reading this please do not have a test process/infra layer just to add "override" step into your deployment process. Please, don't.
+-> Last, but not the least, if you're reading this please do not build up a test process/infra layer just to add an "override" step into your deployment process. Please, don't.
 
 #### :potable_water:  Currently
 
